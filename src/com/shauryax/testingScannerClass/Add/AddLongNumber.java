@@ -1,4 +1,4 @@
-package com.shauryax.Testing.Add;
+package com.shauryax.testingScannerClass.Add;
 
 public class AddLongNumber {
 
@@ -29,6 +29,6 @@ public class AddLongNumber {
     }
 
     public long additionByParameterAndReturnValue(long num1, long num2) {
-        return num1;
+        return 0;
     }
 }
